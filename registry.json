@@ -1681,6 +1681,16 @@
       "homepage": "https://github.com/magoz/cpa-sticky-fill-first",
       "license": "MIT",
       "tags": ["Scheduler", "Routing", "Claude", "Codex"]
+    },
+    {
+      "id": "client-guard",
+      "name": "Client Guard",
+      "description": "按 API Key 识别并限制客户端软件（Codex CLI、Claude Code、Cursor、Cline 等）：在转发上游前读取原始请求头，支持观察/强制模式（不符合返回 403、不计费）、子串/正则/指定请求头规则、预设客户端清单，并提供按 Key 统计客户端的管理页面。",
+      "author": "Samuel-wyj",
+      "repository": "https://github.com/Samuel-wyj/cpa-client-guard",
+      "homepage": "https://github.com/Samuel-wyj/cpa-client-guard",
+      "license": "MIT",
+      "tags": ["Interceptor", "Security", "Management", "Codex"]
     }
   ]
 }
