@@ -1697,7 +1697,7 @@
       "name": "Our Free Model",
       "description": "Native CPA integration for the original Our Free Model: aggregates free-model providers into one OpenAI-compatible pool with per-account login, quota-aware routing, streaming and a built-in management console. / 将原项目 Our Free Model 接入 CPA 原生插件：聚合多家免费模型渠道，提供账号登录、额度路由、流式输出与内置管理控制台。",
       "author": "sy0u1ti",
-      "version": "0.5.2",
+      "version": "0.5.3",
       "repository": "https://github.com/sy0u1ti/cpa-our-free-model",
       "logo": "https://raw.githubusercontent.com/sy0u1ti/cpa-our-free-model/main/assets/logo.png",
       "homepage": "https://github.com/sy0u1ti/cpa-our-free-model",
