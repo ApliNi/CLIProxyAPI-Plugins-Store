@@ -1699,6 +1699,7 @@
       "author": "sy0u1ti",
       "version": "0.5.2",
       "repository": "https://github.com/sy0u1ti/cpa-our-free-model",
+      "logo": "https://raw.githubusercontent.com/sy0u1ti/cpa-our-free-model/main/assets/logo.png",
       "homepage": "https://github.com/sy0u1ti/cpa-our-free-model",
       "license": "MIT",
       "tags": ["Provider", "Management", "Streaming", "OpenAI", "Anthropic"]
