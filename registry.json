@@ -1730,6 +1730,16 @@
       "repository": "https://github.com/LonelyHerbivore/codex-timezone-sync",
       "homepage": "https://github.com/LonelyHerbivore/codex-timezone-sync",
       "tags": ["Codex", "Timezone", "Management", "Request Interceptor"]
+    },
+    {
+      "id": "cpa-account-warmup",
+      "name": "Account Warmup",
+      "description": "Warm up selected Claude and Codex accounts in EasyCLIProxyAPI.",
+      "author": "KeeVeeG",
+      "repository": "https://github.com/KeeVeeG/cpa-account-warmup",
+      "homepage": "https://github.com/KeeVeeG/cpa-account-warmup",
+      "license": "MIT",
+      "tags": ["Management", "Claude", "Codex"]
     }
   ]
 }
