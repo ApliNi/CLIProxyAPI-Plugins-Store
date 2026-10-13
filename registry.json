@@ -1713,6 +1713,16 @@
       "repository": "https://github.com/LonelyHerbivore/codex-timezone-sync",
       "homepage": "https://github.com/LonelyHerbivore/codex-timezone-sync",
       "tags": ["Codex", "Timezone", "Management", "Request Interceptor"]
+    },
+    {
+      "id": "expiring-first",
+      "name": "Expiring First",
+      "description": "Routes each subscription pool to the account whose quota resets soonest and still has quota left, so quota that would expire unused is spent first. Reads quota from a JSON file written by another program and falls back to sticky fill-first routing without fresh readings.",
+      "author": "magoz",
+      "repository": "https://github.com/magoz/cpa-expiring-first",
+      "homepage": "https://github.com/magoz/cpa-expiring-first",
+      "license": "MIT",
+      "tags": ["Scheduler", "Routing", "Quota", "Claude", "Codex"]
     }
   ]
 }
